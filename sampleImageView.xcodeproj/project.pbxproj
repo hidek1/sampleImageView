@@ -14,6 +14,8 @@
 		711B267720B7D2DC0088EBEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 711B267520B7D2DC0088EBEE /* LaunchScreen.storyboard */; };
 		711B268220B7D2DC0088EBEE /* sampleImageViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 711B268120B7D2DC0088EBEE /* sampleImageViewTests.swift */; };
 		711B268D20B7D2DC0088EBEE /* sampleImageViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 711B268C20B7D2DC0088EBEE /* sampleImageViewUITests.swift */; };
+		711B269C20B7D3750088EBEE /* mac.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 711B269A20B7D3750088EBEE /* mac.jpg */; };
+		711B269D20B7D3750088EBEE /* jolibee.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 711B269B20B7D3750088EBEE /* jolibee.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		711B268820B7D2DC0088EBEE /* sampleImageViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sampleImageViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		711B268C20B7D2DC0088EBEE /* sampleImageViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleImageViewUITests.swift; sourceTree = "<group>"; };
 		711B268E20B7D2DC0088EBEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		711B269A20B7D3750088EBEE /* mac.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mac.jpg; sourceTree = "<group>"; };
+		711B269B20B7D3750088EBEE /* jolibee.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jolibee.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				711B266C20B7D2D90088EBEE /* AppDelegate.swift */,
 				711B266E20B7D2D90088EBEE /* ViewController.swift */,
 				711B267020B7D2D90088EBEE /* Main.storyboard */,
+				711B269B20B7D3750088EBEE /* jolibee.jpg */,
+				711B269A20B7D3750088EBEE /* mac.jpg */,
 				711B267320B7D2DC0088EBEE /* Assets.xcassets */,
 				711B267520B7D2DC0088EBEE /* LaunchScreen.storyboard */,
 				711B267820B7D2DC0088EBEE /* Info.plist */,
@@ -232,6 +238,8 @@
 				711B267720B7D2DC0088EBEE /* LaunchScreen.storyboard in Resources */,
 				711B267420B7D2DC0088EBEE /* Assets.xcassets in Resources */,
 				711B267220B7D2D90088EBEE /* Main.storyboard in Resources */,
+				711B269D20B7D3750088EBEE /* jolibee.jpg in Resources */,
+				711B269C20B7D3750088EBEE /* mac.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
